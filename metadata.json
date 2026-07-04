@@ -1,0 +1,6 @@
+{
+  "name": "Handpan & Steel Tongue Drum Simulator",
+  "description": "An interactive, low-latency simulator for Handpan and Steel Tongue Drums with multi-touch support, Web MIDI integration, custom rhythm sequencing, recording, and professional DSP controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
